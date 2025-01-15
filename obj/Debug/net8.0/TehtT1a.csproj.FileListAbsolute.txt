@@ -1,0 +1,14 @@
+C:\kurssit\ohj1\demot\demo6\TehtT1a\bin\Debug\net8.0\TehtT1a.exe
+C:\kurssit\ohj1\demot\demo6\TehtT1a\bin\Debug\net8.0\TehtT1a.deps.json
+C:\kurssit\ohj1\demot\demo6\TehtT1a\bin\Debug\net8.0\TehtT1a.runtimeconfig.json
+C:\kurssit\ohj1\demot\demo6\TehtT1a\bin\Debug\net8.0\TehtT1a.dll
+C:\kurssit\ohj1\demot\demo6\TehtT1a\bin\Debug\net8.0\TehtT1a.pdb
+C:\kurssit\ohj1\demot\demo6\TehtT1a\obj\Debug\net8.0\TehtT1a.GeneratedMSBuildEditorConfig.editorconfig
+C:\kurssit\ohj1\demot\demo6\TehtT1a\obj\Debug\net8.0\TehtT1a.AssemblyInfoInputs.cache
+C:\kurssit\ohj1\demot\demo6\TehtT1a\obj\Debug\net8.0\TehtT1a.AssemblyInfo.cs
+C:\kurssit\ohj1\demot\demo6\TehtT1a\obj\Debug\net8.0\TehtT1a.csproj.CoreCompileInputs.cache
+C:\kurssit\ohj1\demot\demo6\TehtT1a\obj\Debug\net8.0\TehtT1a.dll
+C:\kurssit\ohj1\demot\demo6\TehtT1a\obj\Debug\net8.0\refint\TehtT1a.dll
+C:\kurssit\ohj1\demot\demo6\TehtT1a\obj\Debug\net8.0\TehtT1a.pdb
+C:\kurssit\ohj1\demot\demo6\TehtT1a\obj\Debug\net8.0\TehtT1a.genruntimeconfig.cache
+C:\kurssit\ohj1\demot\demo6\TehtT1a\obj\Debug\net8.0\ref\TehtT1a.dll
