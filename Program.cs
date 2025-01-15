@@ -59,22 +59,24 @@ public class Tauno6
         t[j] = t[i];
         t[i] = muisti;
         */
-        for (int a = 0; a < t.Length; a++)
+        int p = 0;
+        for (int n = 0; n < t.Length; n++)
         {
             int i = 0;
             int j = 1;
             int muisti;
-            muisti = t[j];
-            t[j] = t[i];
-            t[i] = muisti;
-            j += 1;
-            i += 1;
-            Console.WriteLine(t);
+            for (int a = 1; a < (t.Length - p); a++)
+            {
+                muisti = t[j];
+                t[j] = t[i];
+                t[i] = muisti;
+                j += 1;
+                i += 1;
+            }
+            p += 1;
         }
         // BYCODEEND
     }
 
 
 }
-
-

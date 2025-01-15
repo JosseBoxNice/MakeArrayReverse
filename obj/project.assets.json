@@ -8,25 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gr301775\\.nuget\\packages\\": {}
+    "C:\\Users\\joosu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\kurssit\\ohj1\\demot\\demo6\\TehtT1a\\TehtT1a.csproj",
+      "projectUniqueName": "D:\\CodingProjects\\school\\demot\\demo6\\TehtT1a\\MakeArrayReverse\\TehtT1a.csproj",
       "projectName": "TehtT1a",
-      "projectPath": "C:\\kurssit\\ohj1\\demot\\demo6\\TehtT1a\\TehtT1a.csproj",
-      "packagesPath": "C:\\Users\\gr301775\\.nuget\\packages\\",
-      "outputPath": "C:\\kurssit\\ohj1\\demot\\demo6\\TehtT1a\\obj\\",
+      "projectPath": "D:\\CodingProjects\\school\\demot\\demo6\\TehtT1a\\MakeArrayReverse\\TehtT1a.csproj",
+      "packagesPath": "C:\\Users\\joosu\\.nuget\\packages\\",
+      "outputPath": "D:\\CodingProjects\\school\\demot\\demo6\\TehtT1a\\MakeArrayReverse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gr301775\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\joosu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
